@@ -1,6 +1,6 @@
 Olá, meu nome é Alzevir Maicá!
 
-Sou desenvolvedor Fron-end, e atualmente trabalho com com HTML5, CSS3 e Javascript.                                           
+Sou desenvolvedor Fron-end, e atualmente trabalho com com HTML5, CSS3 e JAVASCRIPT.                                           
 
 
 
