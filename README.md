@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Alzevir Maicá, tenho 41 anos e sou natural do Rio Grande do Sul. Concluí a graduação em música pela UFPEL. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac.
+Me chamo Alzevir Maicá, tenho 41 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac.
 
 <p align="left">
     <a href="https://github.com/alzevirmaica?tab=repositories&sort=stargazers">
