@@ -117,7 +117,7 @@ Me chamo Alzevir Maicá, tenho 41 anos e sou natural do Rio Grande do Sul.  Atua
   alt="GitHub Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=alzevirmaica&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&cache_seconds=5500"
+  src="https://github-readme-stats.vercel.app/api?username=alzevirmaica&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&cache_seconds=8000"
 />
 
 
